@@ -1,6 +1,8 @@
 # USJT Studies
 Repository dedicated to projects from Universidade São Judas Tadeu.
 
+Lucas Nagaoka | RA: 81513916
+
 ## 2018
 ### Fev-Jul
 
